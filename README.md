@@ -31,7 +31,7 @@
 - 🙋‍♀️ Volunteer at SJCET Palai – actively supported the coordination and execution of workshops, cultural events, and technical events.
 
 🎯 Mission:
-Crafting intelligent solutions through code, curiosity, and continuous learning to transform ideas into impactful innovations.
+    "Crafting intelligent solutions through code, curiosity, and continuous learning to transform ideas into impactful innovations".
 
 
 ### 📫 Let's Connect
