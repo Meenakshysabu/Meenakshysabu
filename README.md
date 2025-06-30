@@ -35,7 +35,7 @@
 
 
 ### 📫 Let's Connect
-- 🔗 linkedin-www.linkedin.com/in/meenakshy-sabu-741226321
+- 🔗[linkedin](www.linkedin.com/in/meenakshy-sabu-741226321)
 - 📧 Email:meenakshysabu04@gmail.com
 
 
